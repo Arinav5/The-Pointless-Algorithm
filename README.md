@@ -1,5 +1,3 @@
 # The-Pointless-Algorithm
 
-What is does: Finds the middle of 5 sticks. ASCII art.
-
-Future implementations: Make the user choose how many sticks there are. Use more iteration instead or repeating code. Overall could improve the algorithm. 
+What is does: Finds the middle of 5 sticks. ASCII art. It's a visualization of an algorithm that finds the middle of an array. It's pointless because there are easier ways to do the same thing. 
